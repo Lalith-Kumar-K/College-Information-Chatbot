@@ -1,5 +1,5 @@
 # College Information Chatbot
-College Information Chatbot
+College Information Chatbot.
     This repository is linked with a chatbot which can answer the questions that are asked about the Vijayam Degree College, Chittoor, Andhra pradesh.
 
 This chatbot can answer many questions like 
