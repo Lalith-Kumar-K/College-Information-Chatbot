@@ -15,7 +15,9 @@ This chatbot can answer many questions like
 - courses offered in the college
 - fee details of the colllege
 
-You can visit the chatbot in the below link 
+<h1>Chatbot URL</h1>
+
+The website was deployed using Azure Static Web App.  You can visit the Chatbot URL in this link.
 https://nice-bay-0f1c97410.2.azurestaticapps.net
 
 - This chatbot is created for Microsoft Azure internship program offered by  Future Ready Talent.  You can visit for future ready talent portel in the below link.
