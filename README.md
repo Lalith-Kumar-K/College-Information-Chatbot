@@ -19,6 +19,7 @@ You can visit the chatbot in the below link
 https://nice-bay-0f1c97410.2.azurestaticapps.net
 
 - This chatbot is created for Microsoft Azure internship program offered by  Future Ready Talent.  You can visit for future ready talent portel in the below link.
-   https://futurereadytalent.in/Home/Index 
+  
+     https://futurereadytalent.in/Home/Index 
 
 - It will answer the questions related to only Vijayam Degree College, Chittoor, Andhra pradesh, India.
