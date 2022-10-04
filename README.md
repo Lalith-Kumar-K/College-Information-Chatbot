@@ -1,6 +1,6 @@
 #College Information Chatbot
    
-   Iam a student of Vijayam Degree College, affiliated to S.V.University, Tirupati, Chittoor, Andhra Pradesh, India.  I created this chatbot for answering the questions which are asked about the Vijayam Degree College.
+        Iam a student of Vijayam Degree College, affiliated to S.V.University, Tirupati, Chittoor, Andhra Pradesh, India.  I created this chatbot for answering the questions which are asked about the Vijayam Degree College.
    This chatbot can answer the questions effectively.
    
   -  This chatbot was created using azure bot service and it was linked to a azure static web page and it was also effectively answer college related queries.
