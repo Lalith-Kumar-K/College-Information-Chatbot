@@ -26,10 +26,10 @@ https://icy-grass-0eb784010.2.azurestaticapps.net
 
 - It will answer the questions related to only Vijayam Degree College, Chittoor, Andhra pradesh, India.
 
-<h5>Screenshot of bot made using Azure Bot Service:</h5>
+<h3>Screenshot of bot made using Azure Bot Service:</h3>
 ![college-information-chatbot - Microsoft Azure - Google Chrome 07-11-2022 16_47_19](https://user-images.githubusercontent.com/110437202/200299245-f04f880b-8bf6-4a4b-a266-d1965bc1b0a6.png)
 
-<h5>Screenshot of Bot embedded on a website using Azure Static Web App</h5>
+<h3>Screenshot of Bot embedded on a website using Azure Static Web App</h3>
 ![college-information-chatbot - Microsoft Azure - Google Chrome 07-11-2022 16_40_11](https://user-images.githubusercontent.com/110437202/200300122-93bda471-e7f5-45b9-94ae-83c6e762147e.png)
 
 
