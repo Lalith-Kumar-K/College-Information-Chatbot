@@ -33,3 +33,5 @@ https://icy-grass-0eb784010.2.azurestaticapps.net
 
 <h3>Screenshot of the Bot embedded on a website which was created using Azure Static Web App</h3>
 
+
+![college-information-chatbot - Microsoft Azure - Google Chrome 07-11-2022 16_40_11](https://user-images.githubusercontent.com/110437202/200301608-b391bffd-a408-49a2-bd5f-c46388c8e4fa.png)
