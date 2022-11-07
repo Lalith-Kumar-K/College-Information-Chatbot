@@ -35,3 +35,6 @@ https://icy-grass-0eb784010.2.azurestaticapps.net
 
 ![college-information-chatbot - Microsoft Azure - Google Chrome 07-11-2022 17_14_34](https://user-images.githubusercontent.com/110437202/200303170-8c055877-c282-42b9-849f-f4da26661b98.png)
 
+
+
+![college-information-chatbot - Microsoft Azure - Google Chrome 07-11-2022 16_40_11](https://user-images.githubusercontent.com/110437202/200304886-a745deda-013e-471d-8374-33cee42237b0.png)
