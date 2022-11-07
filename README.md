@@ -25,3 +25,7 @@ https://icy-grass-0eb784010.2.azurestaticapps.net
      https://futurereadytalent.in/Home/Index 
 
 - It will answer the questions related to only Vijayam Degree College, Chittoor, Andhra pradesh, India.
+
+
+![college-information-chatbot - Microsoft Azure - Google Chrome 07-11-2022 16_47_19](https://user-images.githubusercontent.com/110437202/200299245-f04f880b-8bf6-4a4b-a266-d1965bc1b0a6.png)
+
