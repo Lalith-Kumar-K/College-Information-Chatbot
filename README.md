@@ -33,10 +33,11 @@ https://icy-grass-0eb784010.2.azurestaticapps.net
 
 <h3>Screenshot of the Bot embedded on a website which was created using Azure Static Web App</h3>
 
-![college-information-chatbot - Microsoft Azure - Google Chrome 07-11-2022 17_14_34](https://user-images.githubusercontent.com/110437202/200303170-8c055877-c282-42b9-849f-f4da26661b98.png)
+![index html - College-Information-Chatbot  GitHub  - Visual Studio Code - GitHub - Google Chrome 09-11-2022 09_53_37](https://user-images.githubusercontent.com/110437202/200738825-a429a452-3044-46f0-b9c9-fcbdd07a8586.png)
+
 
 
 <h3>And here is the output of the College Information Chatbot</h3>
 
+![index html - College-Information-Chatbot  GitHub  - Visual Studio Code - GitHub - Google Chrome 09-11-2022 09_57_46](https://user-images.githubusercontent.com/110437202/200738985-0242221e-c43d-4ee5-b4b5-099d45c06a30.png)
 
-![college-information-chatbot - Microsoft Azure - Google Chrome 07-11-2022 16_40_11](https://user-images.githubusercontent.com/110437202/200304886-a745deda-013e-471d-8374-33cee42237b0.png)
