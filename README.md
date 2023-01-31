@@ -20,7 +20,7 @@ This chatbot can answer many questions like
 The website was deployed using Azure Static Web App.  You can visit the Chatbot URL in this link.
 https://icy-grass-0eb784010.2.azurestaticapps.net
 
-<h4>Note:<h4> The chatbot link is not working because azure free credits are only for limited period of time. We have to pay for the resources we have used in azure, so now there is no any free credits so my chat bot link is not in a working condition.
+<h4>Note:<h4>The above chatbot link is not working because azure free credits are only for limited period of time. We have to pay for the resources we have used in azure, so now there is no any free credits so my chat bot link is not in a working condition.
 
 - This chatbot is created for Microsoft Azure internship program offered by  Future Ready Talent.  You can visit for future ready talent portel in the below link.
   
